@@ -25,8 +25,8 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Turbo Drive", url: "https://www.turbodrive.pro" }],
   icons: {
-    icon: "/favicon.ico",
-    shortcut: "/favicon.ico",
+    icon: "https://www.turbodrive.pro/favicon.ico",
+    shortcut: "https://www.turbodrive.pro/favicon.ico",
   },
   openGraph: {
     title: "Turbo Drive",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     siteName: "Turbo Drive",
     images: [
       {
-        url: "/logo.svg",
+        url: "https://www.turbodrive.pro/logo.svg",
         width: 600,
         height: 315,
         alt: "Turbo Drive logo",
@@ -46,11 +46,11 @@ export const metadata: Metadata = {
     type: "website",
   },
   twitter: {
-    card: "summary_large_image",
+    card: "https://www.turbodrive.pro/logo.svg",
     title: "Turbo Drive",
     description:
       "Sofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
-    images: ["/logo.svg"],
+    images: ["https://www.turbodrive.pro/logo.svg"],
   },
 };
 
