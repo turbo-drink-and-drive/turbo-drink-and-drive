@@ -15,6 +15,23 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Turbo Drive",
   description: "Turbo Drive\nSofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
+  openGraph: {
+    title: "Turbo Drive",
+    description:
+      "Sofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
+    url: "https://turbo-drive.com",
+    siteName: "Turbo Drive",
+    images: [
+      {
+        url: "/logo.svg",
+        width: 360,
+        height: 38,
+        alt: "Turbo Drive logo",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
