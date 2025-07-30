@@ -30,8 +30,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Turbo Drive",
-    description:
-      "Sofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
+    description: "Sofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
     url: "https://www.turbodrive.pro",
     siteName: "Turbo Drive",
     images: [
