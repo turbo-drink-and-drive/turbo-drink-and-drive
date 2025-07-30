@@ -12,9 +12,9 @@ export default function Home() {
           height={400}
           priority
         />
-        <div className="flex gap-4 items-center flex-col sm:flex-col">
-          <h1 className="text-4xl font-bold">Turbo Drive</h1>
-          <p className="text-lg text-gray-500">
+        <div className="flex gap-4 items-center flex-col sm:flex-col w-full">
+          <h1 className="text-4xl font-bold text-center">Turbo Drive</h1>
+          <p className="text-xl text-left">
             Sofia, Bulgaria
             <br />
             Call us: <a href="tel:+359888336303">+359888336303</a>
