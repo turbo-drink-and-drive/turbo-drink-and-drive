@@ -15,6 +15,19 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Turbo Drive",
   description: "Turbo Drive\nSofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
+  keywords: [
+    "Turbo Drive",
+    "Sofia",
+    "Bulgaria",
+    "Personal Driver",
+    "Drink and Drive service",
+    "Rent a car",
+  ],
+  authors: [{ name: "Turbo Drive", url: "https://www.turbodrive.pro" }],
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+  },
   openGraph: {
     title: "Turbo Drive",
     description:
