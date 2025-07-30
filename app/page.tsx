@@ -8,8 +8,8 @@ export default function Home() {
           className=""
           src="/logo.svg"
           alt="Turbo Drive logo"
-          width={360}
-          height={38}
+          width={500}
+          height={400}
           priority
         />
         <div className="flex gap-4 items-center flex-col sm:flex-col">
@@ -18,10 +18,16 @@ export default function Home() {
             Sofia, Bulgaria
             <br />
             Call us: <a href="tel:+359888336303">+359888336303</a>
-          </p>
-          <p className="text-lg text-gray-500">
+            <br />
             Personal Driver, Drink and Drive service, Rent a car
           </p>
+        </div>
+        <div className="flex flex-col items-center">
+          <span className="text-3xl text-yellow-500/90">Under construction</span>
+          <br />
+          <span className="text-lg text-yellow-400/80">
+            This site is currently under construction. Please check back later.
+          </span>
         </div>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">

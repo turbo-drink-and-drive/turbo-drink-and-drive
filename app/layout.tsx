@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Turbo Drive",
     description:
       "Sofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
-    url: "https://turbo-drive.com",
+    url: "https://Turbodrive.pro",
     siteName: "Turbo Drive",
     images: [
       {
@@ -31,6 +31,13 @@ export const metadata: Metadata = {
     ],
     locale: "en_US",
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Turbo Drive",
+    description:
+      "Sofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
+    images: ["/logo.svg"],
   },
 };
 
