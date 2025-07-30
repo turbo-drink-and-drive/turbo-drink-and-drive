@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     type: "website",
   },
   twitter: {
-    card: "https://www.turbodrive.pro/logo.svg",
+    card: "summary_large_image",
     title: "Turbo Drive",
     description:
       "Sofia, Bulgaria\nCall us: +359888336303\n Personal Driver, Drink and Drive service, Rent a car",
