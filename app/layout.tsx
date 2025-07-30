@@ -37,9 +37,10 @@ export const metadata: Metadata = {
     images: [
       {
         url: "https://www.turbodrive.pro/logo.svg",
-        width: 600,
-        height: 315,
+        width: 1200,
+        height: 630,
         alt: "Turbo Drive logo",
+        type: "image/svg+xml",
       },
     ],
     locale: "en_US",
